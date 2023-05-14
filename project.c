@@ -133,7 +133,7 @@ int main()
         }
         if(choice == 0)
         {
-            printf("Thanks for using the calculator. Goodbye!);
+            printf("Thanks for using the calculator. Goodbye!");
             break;
         }         
     }
