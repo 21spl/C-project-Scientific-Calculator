@@ -131,6 +131,11 @@ int main()
                 break;
             
         }
+        if(choice == 0)
+        {
+            printf("Thanks for using the calculator. Goodbye!);
+            break;
+        }         
     }
     return 0;
 }
